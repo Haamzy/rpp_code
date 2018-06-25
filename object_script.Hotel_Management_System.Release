@@ -1,0 +1,16 @@
+INPUT(
+./release\main.o
+./release\login.o
+./release\cashierwindow.o
+./release\adminwindow.o
+./release\database.o
+./release\guest.o
+./release\employee.o
+./release\room.o
+./release\roombill.o
+./release\roomtypes.o
+./release\qrc_Resource.o
+./release\moc_login.o
+./release\moc_cashierwindow.o
+./release\moc_adminwindow.o
+);

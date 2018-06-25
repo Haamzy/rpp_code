@@ -1,0 +1,16 @@
+INPUT(
+./debug\main.o
+./debug\login.o
+./debug\cashierwindow.o
+./debug\adminwindow.o
+./debug\database.o
+./debug\guest.o
+./debug\employee.o
+./debug\room.o
+./debug\roombill.o
+./debug\roomtypes.o
+./debug\qrc_Resource.o
+./debug\moc_login.o
+./debug\moc_cashierwindow.o
+./debug\moc_adminwindow.o
+);
